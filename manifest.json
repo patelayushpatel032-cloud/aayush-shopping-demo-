@@ -1,0 +1,9 @@
+{
+  "name": "AAYUSH SHOPPING",
+  "short_name": "AAYUSH",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#131921",
+  "description": "A demo all-products shopping store"
+}
